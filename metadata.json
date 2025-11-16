@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Simple Credit & Sale Tracker",
+  "description": "A comprehensive app to manage credit (Udhar) and daily sales for small businesses. Track customers, log credit with photos, send WhatsApp reminders, and monitor sales performance with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
